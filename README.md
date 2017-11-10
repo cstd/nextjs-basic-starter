@@ -1,3 +1,4 @@
-npm install -g yarn
-yarn install
-yarn run dev
+- git clone https://github.com/cstd/nextjs-basic-starter
+- npm install -g yarn
+- yarn install
+- yarn run dev
